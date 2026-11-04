@@ -21,7 +21,7 @@ jobs:
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: Web
+          path: "宝可梦语音账本-iOS工程/Web"
 
       - uses: actions/deploy-pages@v4
         id: deployment
