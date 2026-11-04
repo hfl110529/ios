@@ -1,0 +1,1 @@
+{"name":"pokemon-ledger-ios","version":"1.0.0","private":true,"scripts":{"test":"node tools/verify.cjs && node tools/verify-project.cjs","test:ui":"node tools/browser-check.cjs","generate":"node tools/generate-project.cjs"},"devDependencies":{"playwright":"^1.58.0","sharp":"^0.34.0"}}
